@@ -1,6 +1,7 @@
 # vue-user-management-cli
 
-![Demo](docs/Screencast_20241116_094723.webm)
+[Screencast_20241116_094723.webm](https://github.com/user-attachments/assets/b4cd512d-e150-408c-b626-572207e8d9ba)
+
 
 
 This template should help get you started developing with Vue 3 in Vite.
